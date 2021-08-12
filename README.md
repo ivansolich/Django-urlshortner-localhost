@@ -6,3 +6,4 @@ A simple URL shortener app written in Django
 
 Its creates a simple link and records amount of hits that link has.
 
+adminLink: /admin | username: admin | password: 12345
